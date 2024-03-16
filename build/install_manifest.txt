@@ -1,8 +1,0 @@
-/opt/ros/noetic/share/kaon_msg1/msg/kanon_1.msg
-/opt/ros/noetic/share/kaon_msg1/cmake/kaon_msg1-msg-paths.cmake
-/opt/ros/noetic/include/kaon_msg1/kanon_1.h
-/opt/ros/noetic/lib/pkgconfig/kaon_msg1.pc
-/opt/ros/noetic/share/kaon_msg1/cmake/kaon_msg1-msg-extras.cmake
-/opt/ros/noetic/share/kaon_msg1/cmake/kaon_msg1Config.cmake
-/opt/ros/noetic/share/kaon_msg1/cmake/kaon_msg1Config-version.cmake
-/opt/ros/noetic/share/kaon_msg1/package.xml
