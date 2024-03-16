@@ -25,3 +25,28 @@ set(CPACK_DEBIAN_PACKAGE_MAINTAINER "jialomg62@gmail.com")
 include(CPack)
 
 ```
+
+## 3. how to package
+
+
+```bash
+cd  top_level_dir
+
+# configure
+cmake -S . -B build
+
+# build
+cmake --build build -j4
+
+# generate deb pckage
+cd build && make package  # it will generate xxxx.deb
+
+# install deb package
+sudo dpkg -i xxx.deb
+
+# inspect installed dir
+sudo dpkg -L xxx.deb
+
+# inspect package short info
+sudo dpkg -s package_name
+```
