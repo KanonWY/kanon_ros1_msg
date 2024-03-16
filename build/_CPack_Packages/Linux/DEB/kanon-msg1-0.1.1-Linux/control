@@ -1,0 +1,9 @@
+Architecture: amd64
+Description: kaon_msg1 built using CMake
+Maintainer: kanonjiam
+Package: kanon-msg1
+Priority: optional
+Section: devel
+Version: 0.1.1
+Installed-Size: 62
+

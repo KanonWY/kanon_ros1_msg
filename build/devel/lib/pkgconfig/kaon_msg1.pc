@@ -1,0 +1,8 @@
+prefix=/home/kanon/ros_code/kaon_msg1/build/devel
+
+Name: kaon_msg1
+Description: Description of kaon_msg1
+Version: 0.0.0
+Cflags: -I/home/kanon/ros_code/kaon_msg1/build/devel/include
+Libs: -L${prefix}/lib 
+Requires: 
